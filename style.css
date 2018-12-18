@@ -1,16 +1,18 @@
 h1{
-   color:#ff9999;
+   color:#000000;
    text-align: center;
-   background: #000000;
 }
 
 p{
     font-size: 18px;
-    color:#ffcccc;
-    background-color: #000000
+    color:#000000;
 }
 
 .Powers{
-    color:#990000;
+    color:#000000;
     text-align: center;
+}
+
+body{
+    background-color: #ffcc80
 }

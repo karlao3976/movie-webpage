@@ -2,10 +2,12 @@ h1 {
     color: #000000;
     text-align: center;
     margin: 10px;
+    font-family: 'Playfair Display', serif;
 }
 
-h2{
+h2 {
     padding: 10px;
+    font-family: 'Lora', serif;
 }
 
 p {
@@ -13,13 +15,14 @@ p {
     color: #800000;
     border: 1px dotted red;
     margin: 10px;
-    padding:20px;
+    padding: 20px;
+    font-family: 'Merriweather', serif;
 }
 
 .Powers {
     color: #800000;
     text-align: center;
-    
+
 }
 
 body {
@@ -35,17 +38,11 @@ body {
     float: left
 }
 
-#noodle{
+#noodle {
     float: right
 }
 
-li{
+li {
     font-size: 24px;
     padding: 15px;
-}
-
-
-*{
-    
-    
 }

@@ -4,11 +4,16 @@ h1 {
     margin: 10px;
 }
 
+h2{
+    padding: 10px;
+}
+
 p {
-    font-size: 18px;
+    font-size: 24px;
     color: #800000;
     border: 1px dotted red;
-    margin: 20px;
+    margin: 10px;
+    padding:20px;
 }
 
 .Powers {
@@ -19,10 +24,28 @@ p {
 
 body {
     background-color: #ffcc80;
+    min-width: 600px;
+    max-width: 1200px;
 }
 
 
 #banana {
     text-align: center;
     color: #800000;
+    float: left
+}
+
+#noodle{
+    float: right
+}
+
+li{
+    font-size: 24px;
+    padding: 15px;
+}
+
+
+*{
+    
+    
 }
